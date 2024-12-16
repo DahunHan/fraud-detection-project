@@ -1,51 +1,24 @@
-# fraud-detection-project
-Exploring fraud detection with synthetic financial datasets
+# Fraud Detection Project
+
+This project explores synthetic financial transaction data to identify patterns of fraudulent activity. The analysis is performed using Python and Jupyter Notebook.
+
+## Files
+- **DH_1.ipynb**: The Jupyter Notebook containing code and analysis for the project.
+
 ## Dataset
-The dataset used for this project can be downloaded [Kaggle ](https://www.kaggle.com/datasets/ealaxi/paysim1?utm_source=chatgpt.com)
-# Data Analysis Project - Day 1
+The dataset used in this project is available on Kaggle:
+[Synthetic Financial Datasets for Fraud Detection](https://www.kaggle.com/ealaxi/paysim1)
 
-## Introduction
+## Notion 
+The summary of the project is available on Notion
+https://www.notion.so/dahunhan/Project-1-Synthetic-Financial-Datasets-for-Fraud-Detection-15e3a12ce0a780dc835ec782df91e019?pvs=4
 
-Welcome to the beginning of my data analysis journey! Today, I am diving into my first project by selecting a dataset from Kaggle. This blog post will document my thought process, actions, and key learnings as I embark on this exciting exploration.
+## Steps Covered in the Notebook
+1. Data Loading and Preview
+2. Exploratory Data Analysis (EDA)
+3. Initial Observations and Insights
 
----
-
-## Step 1: Defining the Objective
-
-Before jumping into dataset selection, it's essential to outline a clear objective. Here's what I aim to achieve:
-
-- Practice and enhance my exploratory data analysis (EDA) skills.
-- Identify patterns and insights that could answer a real-world question.
-- Share my discoveries and methodologies with a global audience.
-
-I want to choose a dataset that is:
-
-- Beginner-friendly yet insightful.
-- Relevant to current global or societal interests.
-- Rich enough to allow multiple analyses but manageable for a first project.
-
----
-
-## Step 2: Exploring Kaggle Datasets
-
-Kaggle offers a vast repository of datasets, making it a treasure trove for data analysts. Here are the steps I followed:
-
-1. **Browse by Popularity**:
-    - I explored the "Trending Datasets" section to identify what’s currently catching the interest of the data community.
-2. **Filter by Tags**:
-    - I used tags like "Beginner," "CSV," and "Clean Data" to ensure the dataset is suitable for my level.
-3. **Shortlist Options**:
-    - I shortlisted the following datasets:
-        1. **"Netflix Movies and TV Shows"**: Analyze trends in streaming content.
-        2. **"Global COVID-19 Vaccination Progress"**: Understand the global vaccination rollout.
-        3. **"Synthetic Financial Datasets for Fraud Detection"**: Explore financial fraud detection techniques using simulated transaction data.
-
----
-
-## Step 3: Dataset Selection
-
-After careful consideration, I decided to go with **"Synthetic Financial Datasets for Fraud Detection."** Here’s why:
-
-- **Practical Application**: Fraud detection is a critical area in financial analysis, and this dataset provides a safe yet realistic environment to explore it.
-- **Learning Opportunity**: The dataset includes simulated transaction data, offering a chance to practice classification and anomaly detection techniques.
-- **Visualization Potential**: The data can be visualized to uncover fraud patterns and trends.
+## How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/DahunHan/fraud-detection-project.git
